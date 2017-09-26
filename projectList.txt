@@ -1126,7 +1126,7 @@
 	},
 	{"id":"004",
     "name":"瑞骐C201",
-    "cellSeries":"93",           
+    "cellSeries":"90",           
     "cellParallel":"48",         
     "cellCapacity":"2200",       
     "dischargeCapability":"1.0",  
